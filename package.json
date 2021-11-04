@@ -1,0 +1,10 @@
+{
+  "name": "bug-root",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/kevinji/puppeteer-extra-yarn-bug.git",
+  "packageManager": "yarn@3.1.0",
+  "workspaces": [
+    "bug-test"
+  ]
+}

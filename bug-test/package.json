@@ -1,0 +1,17 @@
+{
+  "name": "bug-test",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "packageManager": "yarn@3.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "11.0.0",
+    "puppeteer-extra": "3.2.3",
+    "puppeteer-extra-plugin-stealth": "2.9.0",
+    "puppeteer-extra-plugin-user-data-dir": "2.3.1",
+    "puppeteer-extra-plugin-user-preferences": "2.3.1"
+  }
+}
